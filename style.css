@@ -1,0 +1,81 @@
+    h1 {
+        text-align: center;
+    }
+    
+
+    * {
+        box-sizing: border-box;
+    }
+
+
+    .chicken {
+        color:rgb(255, 255, 255);
+        background-color: gray;
+        border: 3px solid rgb(0, 0, 0);
+        padding: 10px;
+        margin: 20px 20px 50px 110px ;
+        float: left;
+        /*width: 30%;
+        /*background-image: url(th.jpg);*/
+        
+        
+        
+
+    }
+
+    .Beef {
+        color:rgb(255, 255, 255);
+        background-color: gray;
+        border: 3px solid black;
+        padding: 10px;
+        margin: 20px 20px 50px 110px;
+        float: left;
+        /*width: 30%;
+        /*background-image: url(brain.png);*/
+        
+    }
+
+    .Sushi {
+        
+        color:rgb(255, 255, 255);
+        background-color: gray;
+        border: 3px solid black;
+        padding: 10px;
+        margin: 20px 20px 50px 110px;
+        float: left;
+        /*width: 30%;
+        /*background-image: url(brain-circuit.png);*/
+        
+        
+        
+    }
+
+    #title-chicken {
+        /*text-align: end;*/
+        color: black;
+        border: 2px solid rgb(0, 0, 0);
+        margin: 10px 10px 10px 220px;
+        background-color: pink;
+                
+    }
+
+    #title-Beef {
+        /*text-align: end;*/
+        color: black;
+        border: 2px solid rgb(0, 0, 0);
+        margin: 10px 10px 10px 250px;
+        background-color: red;
+        
+
+    }
+
+    #title-Sushi {
+        /*text-align: end;*/
+        color: black;
+        border: 2px solid rgb(0, 0, 0);
+        margin: 10px 10px 10px 250px;
+        background-color: plum;
+        
+    }
+    
+   
